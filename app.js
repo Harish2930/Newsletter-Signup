@@ -77,11 +77,3 @@ app.listen(process.env.PORT || 3000,function(){
 
 
 
-
-
-// list Id
-// 32af2c39ed
-
-
-// api key
-// 0c106fcc0cd95f2b7bfa88ec7e98ef16-us14

@@ -7,6 +7,4 @@ Learnt basics of :<br>
 ✅Node.js<br>
 ☑️ Express.js<br>
 ✅ MailChimp API<br>
-☑️ Deployment with Heroku<br> 
 
-https://fathomless-bayou-94139.herokuapp.com
